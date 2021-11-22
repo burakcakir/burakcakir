@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Burak Çakır</h1>
+<h1 align="center">Hi , I'm Burak Çakır 🤚</h1>
 <h3 align="center">Software Engineering student at Karadeniz Technical University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burakcakir&label=Profile%20views&color=1396e7&style=flat" alt="burakcakir" /> </p>
