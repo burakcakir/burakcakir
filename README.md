@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burakcakir&show_icons=true&locale=en&layout=compact" alt="burakcakir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakcakir&show_icons=true&title_color=1486ff&text_color=ffffff&locale=en" alt="burakcakir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakcakir&show_icons=true&title_color=1486ff&text_color=000000&locale=en" alt="burakcakir" /></p>
