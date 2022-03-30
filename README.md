@@ -1,9 +1,11 @@
 <h1 align="center">Hi , I'm Burak Çakır ✋</h1>
 <h3 align="center">Software Engineering student at Karadeniz Technical University</h3>
 
+- 🌱 I’m currently learning **C#, Angular and Linux**
+
 - 📫 How to reach me **burakckr@windowslive.com**
 
-- 🌱 I’m currently learning **C#,Angular and Linux**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
