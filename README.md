@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **burakckr@windowslive.com**
 
+- 🌱 I’m currently learning **C#,Angular and Linux**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/burakçakır" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burakçakır" height="30" width="40" /></a>
