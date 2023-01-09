@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Burak Çakır</h1>
+<h1 align="center">Hi, I'm Burak Çakır</h1>
 <h3 align="center">Software Engineer from Turkey</h3>
 
 - 🔭 I’m currently working **Software Engineer at United Payment**
