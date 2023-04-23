@@ -1,6 +1,5 @@
 # 💫 Hi, I'm Burak Çakır
-<br><br>Software Engineer from Turkey<br><br>💬 Ask me about Anything If I know I would like to help<br><br>📫 How to reach me burakckr@windowslive.com<br><br>
-
+Software Engineer from Turkey<br><br>💬 Ask me about Anything If I know I would like to help<br><br>📫 How to reach me burakckr@windowslive.com<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_cakirburak_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/burakçakır/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@burakcakir_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/quashrush) 
