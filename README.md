@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋! My name is Burak Çakır and I'm a Software Engineer from Turkey</h1>
+<h2 align="center">Hi 👋! My name is Burak Çakır</h2>
+
+###
+
+<p align="center">📍 Software Engineer from Turkey<br>💬 Ask me about Anything If I know I would like to help</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 ###
@@ -50,6 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 </div>
 
 ###
@@ -63,6 +71,12 @@
   </a>
   <a href="burakckr@windowslive.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.instagram.com/_cakirburak_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/quashrush" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 
