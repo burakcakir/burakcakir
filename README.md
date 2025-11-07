@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Burak Çakır</h2>
+<h2 align="center">Hi👋 My name is Burak Çakır</h2>
 
 ###
 
-<p align="center">📍 Software Engineer from Turkey<br>💬 Ask me about Anything If I know I would like to help</p>
+<p align="center">📍 Software Engineer from Turkey<br>💬 Ask me anything — if I know, I'd be happy to help!</p>
 
 ###
 
@@ -72,12 +72,6 @@
   <a href="burakckr@windowslive.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://www.instagram.com/_cakirburak_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/quashrush" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
 </div>
 
 ###
@@ -94,9 +88,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/burakcakir/count.svg?"  />
-</div>
 
 ###
